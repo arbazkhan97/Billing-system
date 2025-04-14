@@ -3,6 +3,10 @@ import random
 import os
 from tkinter import messagebox, END
 
+import os
+if not os.path.exists("bills"):
+    os.makedirs("bills")
+
 # ============main============================
 class Bill_App:
     def __init__(self, root):

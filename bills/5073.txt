@@ -1,0 +1,14 @@
+	Welcome To India Mart
+Bill Number: 5073
+Customer Name: 
+Phone Number: 
+====================================
+Products		  QTY	  Price
+Daal		   9	  Rs. 855
+---------------------------------------
+Medical Tax			Rs. 0.0
+Grocery Tax			Rs. 102.6
+Cold Drinks Tax			Rs. 0.0
+
+Total Bill:			Rs. 957.6
+---------------------------------------

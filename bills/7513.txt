@@ -1,0 +1,15 @@
+	Welcome To India Mart
+Bill Number: 7513
+Customer Name: annu
+Phone Number: 6392179744
+====================================
+Products		  QTY	  Price
+Food Oil		   1	  Rs. 144
+Wheat		   2	  Rs. 58
+---------------------------------------
+Medical Tax			Rs. 0.0
+Grocery Tax			Rs. 24.24
+Cold Drinks Tax			Rs. 0.0
+
+Total Bill:			Rs. 226.24
+---------------------------------------
