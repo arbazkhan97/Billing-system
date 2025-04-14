@@ -1,0 +1,14 @@
+	Welcome To India Mart
+Bill Number: 9020
+Customer Name: 
+Phone Number: 
+====================================
+Products		  QTY	  Price
+Food Oil		   1	  Rs. 144
+---------------------------------------
+Medical Tax			Rs. 0.0
+Grocery Tax			Rs. 17.28
+Cold Drinks Tax			Rs. 0.0
+
+Total Bill:			Rs. 161.28
+---------------------------------------
